@@ -1,7 +1,7 @@
 ## TechStack Used
 
-## Next.js
-## Tailwind CSS
+   -Next.js
+   -Tailwind CSS
 
 ## Getting Started
 

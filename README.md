@@ -1,12 +1,15 @@
 ## TechStack Used
 
    #Next.js
+
+   
    #Tailwind CSS
 
 ## Features
 
  #Shimmer UI (Skleton Loading)
 
+#Live Deployed on Vercel 
  
  #component composition
 

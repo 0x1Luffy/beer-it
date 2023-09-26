@@ -1,7 +1,14 @@
 ## TechStack Used
 
-   -Next.js
-   -Tailwind CSS
+   #Next.js
+   #Tailwind CSS
+
+## Features
+
+ #Shimmer UI (Skleton Loading)
+ #component composition
+
+#server side rendering
 
 ## Getting Started
 
